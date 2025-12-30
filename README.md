@@ -9,8 +9,8 @@ A permanent archival snapshot of this repository and the methodology diagram is 
 ---
 
 ## Dataset Overview
-This repository includes sample `.pcd` files representative of the full dataset.  
-- Preprocessing, calibration, and optimization workflows are demonstrated using these sample files.  
+This repository also includes a sample `.pcd` file along with the codes which is a representative of the full dataset.  
+- Preprocessing, calibration, and optimization workflows are demonstrated using this sample file.  
 - Full experimental setup, hardware specifications, and preprocessing parameters are described in the associated publication.
 
 Only sample `.pcd` files are included. Full dataset access is available upon request.
