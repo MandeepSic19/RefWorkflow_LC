@@ -72,7 +72,7 @@ The methodology diagram is also proprietary and subject to the same license.
 
 ## Citation
 
-If you use or reference this work (including the reference code, sample data, or methodology diagram), cite the following:
+If you use or reference this work (including the reference code, sample data, or methodology), cite the following:
 
 **Repository (Reference Code and Sample Data)**  
 Mandeep Singh, 2025. RefData_LC: Sample Point Clouds and Reference Code for Calibration and Optimization Workflow. Zenodo.  
