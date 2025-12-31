@@ -32,20 +32,16 @@ The methodology diagram illustrates the calibration and optimization workflow an
 - **Zenodo DOI:** [https://doi.org/10.5281/zenodo.YYYYYYYY](https://doi.org/10.5281/zenodo.YYYYYYYY)
 
 ## Data Availability
+The .pcd file and reference scripts included here are sufficient to reproduce the workflow described in the manuscript.
+The full materials generated and analyzed during the study are not publicly available due to ongoing research, but may be provided upon reasonable request at the author’s discretion:
 
-The `.pcd` file and reference scripts included here are sufficient for reproducing the workflow.  
-Requests for access to the full internal dataset may be submitted using the form below and will be considered individually:
-
-- **Data request form:** [https://forms.gle/7GKQZj3UFonACS1w7](https://forms.gle/7GKQZj3UFonACS1w7)
-
-Upon approval:
-- Files may be shared privately or  
-- Access will be granted through a controlled link  
-Processing time may vary depending on request volume.
+- **Request form:** [https://forms.gle/7GKQZj3UFonACS1w7](https://forms.gle/7GKQZj3UFonACS1w7)
+- 
+If approved, access may be provided privately or through a controlled link.
 
 ## Citation
 
-If this work, including the reference code, `.pcd` file, or methodology is used or referenced, cite the following:
+If this work, including the reference codes, `.pcd` file, or methodology is used or referenced, cite the following:
 
 **Repository (Reference Data and Code)**  
 Mandeep Singh (2025). RefData_LC: Point Cloud Reference Data and Code for Calibration and Optimization Workflow. Zenodo.  
