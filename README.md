@@ -1,11 +1,11 @@
-## RefData_LC
-This repository contains a .pcd file and reference codes to demonstrate the  calibration and optimization workflow. The full dataset used in the experiments contains proprietary information and cannot be shared publicly. The provided sample files match the structure and format of the original dataset, allowing demonstration of the pipeline steps. Access to the full dataset can be requested by contacting the author, subject to approval.Further,It is sufficient for validating the methodology and reproducing the computational pipeline.
+# RefData_LC
+This repository contains a .pcd file and codes (with reference values) to demonstrate the  calibration and optimization workflow. The full dataset used in the experiments contains proprietary information and cannot be shared publicly. The provided sample files match the structure and format of the original dataset, allowing demonstration of the pipeline steps. Access to the full dataset can be requested by contacting the author, subject to approval.Further,It is sufficient for validating the methodology and reproducing the computational pipeline.
 
 A permanent archival snapshot of this repository and the methodology diagram is available on Zenodo:  
 - Repository DOI: https://doi.org/10.5281/zenodo.XXXXXXXX  
 - Methodology Diagram DOI: https://doi.org/10.5281/zenodo.YYYYYYYY
 
-## Dataset Overview
+### Overview
 This repository also includes a  `.pcd` file along with the codes which is a representative of the full dataset.  
 - Preprocessing, calibration, and optimization workflows are demonstrated using this sample file.  
 - Full experimental setup, hardware specifications, and preprocessing parameters are described in the associated publication.
