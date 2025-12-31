@@ -9,7 +9,7 @@ This repository includes:
 - Reference values for calibration parameters  
 **Note:** The program includes representative reference values in place of actual experimental values to demonstrate reproducibility while preserving confidentiality.
 
-These resources demonstrate the processing sequence used in the experiments. Additional setup information, hardware specifications, and preprocessing parameters are described in the associated manuscript.
+These resources demonstrate the processing sequence used in the experiments. Additional setup information, hardware specifications, and all other detail are described in the associated manuscript.
 
 ## Images and Outputs
 Representative images of point clouds and outputs are located in `/figures/`. For detailed experimental results and analysis, refer to the published manuscript.
