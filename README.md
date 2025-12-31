@@ -1,62 +1,82 @@
 # RefData_LC
-This repository contains a .pcd file and codes (with reference values) to demonstrate the  calibration and optimization workflow. The full dataset used in the experiments contains proprietary information and cannot be shared publicly. The provided sample files match the structure and format of the original dataset, allowing demonstration of the pipeline steps. Access to the full dataset can be requested by contacting the author, subject to approval.Further,It is sufficient for validating the methodology and reproducing the computational pipeline.
 
-A permanent archival snapshot of this repository and the methodology diagram is available on Zenodo:  
-- Repository DOI: https://doi.org/10.5281/zenodo.XXXXXXXX  
-- Methodology Diagram DOI: https://doi.org/10.5281/zenodo.YYYYYYYY
+This repository provides a `.pcd` file and reference code (with reference values) that demonstrate the calibration and optimization workflow used in the associated research. The full dataset from the experiments contains proprietary information and is not publicly released. The materials provided here reflect the structure and format of the original dataset and are sufficient to reproduce the computational pipeline described in the manuscript.
+
+Archival identifiers for this repository and the methodology diagram are available on Zenodo:
+
+- **Repository DOI:** [https://doi.org/10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXXX)  
+- **Methodology Diagram DOI:** [https://doi.org/10.5281/zenodo.YYYYYYYY](https://doi.org/10.5281/zenodo.YYYYYYYY)
 
 ## Overview
-This repository also includes a  `.pcd` file along with the codes which is a representative of the full dataset.  
-- Preprocessing, calibration, and optimization workflows are demonstrated using this sample file.  
-- Full experimental setup, hardware specifications, and preprocessing parameters are described in the associated publication.
+This repository includes:
+- A `.pcd` file representing the dataset format used in the research  
+- MATLAB codes for  calibration, and optimization workflows  
+- Reference values for calibration parameters
 
-Only sample `.pcd` files are included. Full dataset access is available upon request.
+These materials demonstrate the processing sequence used in the experiments. Additional setup information, hardware specifications, and preprocessing parameters are described in the associated manuscript.
 
-## Sample Images
-Sample images of point clouds and measurement outputs are available in `/figures/`.  
-For detailed experimental results and analysis, refer to the associated publication.
+The full internal dataset can be requested from the author, subject to approval.
+
+## Images and Outputs
+
+Representative images of point clouds and measurement outputs are located in `/figures/`.  
+For detailed experimental results and analysis, refer to the published manuscript.
 
 ## Reproducibility Information
-The repository provides reference codes and sample data that are sufficient to reproduce the reported workflow and results.  
-- Sample file formats match the original dataset to enable reproduction of the pipeline.  
-- Hardware specifications, software details, and optimization parameters are documented in the associated publication.  
-- The methodology diagram archived on Zenodo supports reproducibility and authorship verification.
+
+The materials provided here support reproducibility of the computational workflow and results reported in the manuscript:
+- File formats match those used in the original dataset  
+- Code reflects the calibration and optimization steps described in the publication  
+- Hardware and software configuration details are included in the manuscript  
+- The methodology diagram on Zenodo supports understanding of the workflow and confirms authorship of the process design
+
+These resources are intended for reproducing the pipeline and validating the methodology.
 
 ## Methodology Diagram
-The methodology diagram illustrates the calibration and optimization workflow and may be used alongside the reference code to reproduce the pipeline.  
-Zenodo DOI: https://doi.org/10.5281/zenodo.YYYYYYYY
+The methodology diagram illustrates the calibration and optimization workflow and is intended to be used with the reference code to reproduce the computational process.
+
+- **Zenodo DOI:** [https://doi.org/10.5281/zenodo.YYYYYYYY](https://doi.org/10.5281/zenodo.YYYYYYYY)
 
 ## Data Availability
-All `.pcd` files and associated scripts are available upon request. The reference code provided in this repository is sufficient to reproduce the workflow and satisfy reproducibility requirements.
 
-Data request form: https://forms.gle/7GKQZj3UFonACS1w7
+The `.pcd` file and reference scripts included here are sufficient for reproducing the workflow.  
+Requests for access to the full internal dataset may be submitted using the form below and will be considered individually:
+
+- **Data request form:** [https://forms.gle/7GKQZj3UFonACS1w7](https://forms.gle/7GKQZj3UFonACS1w7)
 
 Upon approval:
-- Files will be shared privately or added to the repository as appropriate.
-- A direct download link will be sent via email.
-
-Data sharing is subject to approval and may require processing time.
+- Files may be shared privately or  
+- Access will be granted through a controlled link  
+Processing time may vary depending on request volume.
 
 ## Citation
-If you use or reference this work (including the reference code, sample data, or methodology), cite the following:
 
-**Repository (Reference Code and Sample Data)**  
-Mandeep Singh, 2025. RefData_LC: Sample Point Clouds and Reference Code for Calibration and Optimization Workflow. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.XXXXXXXX  
+If this work, including the reference code, `.pcd` file, or methodology is used or referenced, cite the following:
 
-**Methodology Diagram (Workflow and Reproducibility Asset)**  
-Mandeep Singh, 2025. Calibration and Optimization Methodology Diagram. Zenodo.  
-DOI: https://doi.org/10.5281/zenodo.YYYYYYYY  
+**Repository (Reference Data and Code)**  
+Mandeep Singh (2025). RefData_LC: Point Cloud Reference Data and Code for Calibration and Optimization Workflow. Zenodo.  
+DOI: [https://doi.org/10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXXX)
 
-A formal publication citation will be provided after acceptance and publication.
+**Methodology Diagram (Workflow Asset)**  
+Mandeep Singh (2025). Calibration and Optimization Methodology Diagram. Zenodo.  
+DOI: [https://doi.org/10.5281/zenodo.YYYYYYYY](https://doi.org/10.5281/zenodo.YYYYYYYY)
+
+A citation for the formal publication will be provided following acceptance.
 
 ## License
+
 All Rights Reserved  
-Copyright (c) 2025 Mandeep Singh
+Copyright (c) 2025
 
-This repository, including MATLAB/Python scripts, sample `.pcd` files, methodology diagrams, and documentation, is proprietary. No permission is granted to use, copy, modify, distribute, or publish the content in whole or in part without explicit written consent from the author.
-Citation using the Zenodo DOIs is required for academic reference:
-- Repository: https://doi.org/10.5281/zenodo.XXXXXXXX  
-- Methodology Diagram: https://doi.org/10.5281/zenodo.YYYYYYYY
+This repository, including codes, `.pcd` files, diagrams, images, and documentation, is proprietary.  
+No permission is granted to reuse, modify, or redistribute material from this repository without prior written authorization.
 
-The methodology diagram is also proprietary and subject to the same license.
+The materials provided here support reproducibility of the workflow described in the associated manuscript.  
+Use beyond reproducing the workflow (including integration into external software, redistribution, or derivative work) requires written permission.
+
+Requests for access to full-resolution or internal data may be considered, subject to approval.
+
+Referencing the Zenodo DOIs confirms the source of the materials and supports recognition of authorship and provenance:
+
+- **Repository:** [https://doi.org/10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXXX)  
+- **Methodology Diagram:** [https://doi.org/10.5281/zenodo.YYYYYYYY](https://doi.org/10.5281/zenodo.YYYYYYYY)
